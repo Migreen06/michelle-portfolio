@@ -78,7 +78,7 @@
       display: flex;
       padding-left: 2rem;
       flex-wrap: wrap;
-      max-width:100%;
+      max-width: 100%;
       justify-content: space-evenly;
   }
 
@@ -169,10 +169,12 @@
 
       .metrics,
       .main {
-display:block;      }
+          display: block;
+      }
 
       .gif-gallery {
           justify-items: center;
+          display:block;
       }
 
       .menu {
