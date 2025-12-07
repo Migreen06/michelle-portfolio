@@ -81,10 +81,11 @@
       justify-content: space-around;
   }
 
-  section {
+  .marketing-list,.marketing-images {
         margin: 1rem;
         align-items: center;
         max-width:100%;
+        flex-wrap:wrap;
         display:flex;
   }
 
