@@ -79,7 +79,7 @@
       padding-left: 2rem;
       flex-wrap: wrap;
       max-width: 100%;
-      justify-content: space-evenly;
+      justify-content: space-around;
   }
 
 
@@ -124,6 +124,7 @@
       text-align: left;
       color: white;
       display: flex;
+      margin:0 auto;
       padding-left: 5rem;
       padding-top: 1rem;
       font-size:medium;
