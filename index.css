@@ -126,6 +126,7 @@
       display: flex;
       padding-left: 5rem;
       padding-top: 1rem;
+      font-size:medium;
   }
 
   .marketing-images,
@@ -257,7 +258,6 @@
 
       .marketing-list {
           padding-left: 1rem;
-          font-size: .5rem;
       }
 
       .marketing-images,
