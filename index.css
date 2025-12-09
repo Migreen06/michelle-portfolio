@@ -87,12 +87,15 @@
       align-items: center;
   }
 
-  img,
-  video {
+  img {
       margin-top: 8px;
       vertical-align: middle;
   }
 
+.videos, .videos>video {
+    max-width:30%;
+    height:auto;
+}
   .video-box {
       display: flex;
       flex-direction: column;
