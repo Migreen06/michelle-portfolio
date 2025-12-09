@@ -175,14 +175,15 @@
 
   @media screen and (max-width: 600px) {
 
-      .metrics, .screenshots {
+      .metrics,
+      .screenshots {
           display: inline;
 
       }
 
       .main {
           padding: 2rem;
-          display:block;
+          display: block;
           max-width: 100%;
       }
 
@@ -234,24 +235,14 @@
           padding: 10px 15px;
       }
 
-
-      .metrics,
-      .screenshots {
-          flex-direction: column;
-          align-items: center;
-          width: 100%;
-      }
-
       .marketing-list {
           padding-left: 1rem
       }
 
       .marketing-images,
       .marketing-assets {
-          display: flex;
+          display: inline;
           max-width: 100%;
           justify-items: center;
-          flex-direction: column;
-
       }
-  }
+    }
