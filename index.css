@@ -175,8 +175,9 @@
 
   @media screen and (max-width: 600px) {
 
-      .metrics {
-          display: block;
+      .metrics, .screenshots {
+          display: inline;
+
       }
 
       .main {
