@@ -204,6 +204,7 @@
       .gif-gallery {
           justify-items: center;
           display: inline;
+          max-width:100%;
       }
 
       h2 {
