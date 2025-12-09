@@ -183,6 +183,8 @@
       .metrics,
       .screenshots {
           display: inline;
+          max-width:100%;
+          justify-items:center;
       }
 
       .main {
