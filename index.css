@@ -134,9 +134,8 @@
       text-align: left;
       color: white;
       display: flex;
-      margin:0 auto;
       font-size: 22px;
-      align-content:center;
+      justify-content:center;
   }
 
   .skill-list {
