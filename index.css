@@ -134,10 +134,10 @@
       text-align: left;
       color: white;
       display: flex;
-      margin:0 auto;
-      padding-left: 5rem;
+      margin-left: 5rem;
       padding-top: 1rem;
-      font-size:medium;
+      font-size:15px;
+      align-content:center;
   }
 
   .marketing-images,
