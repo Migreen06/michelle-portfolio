@@ -190,13 +190,14 @@
   .video-box {
       display: flex;
       margin: 1rem;
+    flex-wrap: wrap;
       max-width: 100%;
+    justify-content: space-around;
   }
 
   .videos {
       display: flex;
       padding: 1rem;
-      flex-wrap: wrap;
   }
 
 
