@@ -134,13 +134,13 @@
       text-align: left;
       color: white;
       display: flex;
-      margin-left: 5rem;
-      padding: 2rem;
       font-size: 22px;
   }
 
   .skill-list {
 display: flex;
+    margin-left: 5rem;
+        padding: 2rem;
 
   }
 
