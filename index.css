@@ -198,12 +198,11 @@
   .vids {
       display: flex;
       padding: 1rem;
-      max-width: 100%;
+        justify-content: space-around;
   }
 
   video {
     max-width:50%;
-
   }
 
 
