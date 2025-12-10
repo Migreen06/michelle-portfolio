@@ -135,9 +135,8 @@
       color: white;
       display: flex;
       margin-left: 5rem;
-      padding-top: 1rem;
-      font-size: 15px;
-      align-content: center;
+      padding: 2rem;
+      font-size: 22px;
   }
 
   .marketing-images,
