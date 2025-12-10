@@ -187,7 +187,7 @@
       display: grid;
   }
 
-  .video-box {
+  .vidbox{
       display: flex;
       margin: 1rem;
     flex-wrap: wrap;
@@ -195,7 +195,7 @@
     justify-content: space-around;
   }
 
-  .videos {
+  .vids {
       display: flex;
       padding: 1rem;
   }
