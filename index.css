@@ -195,7 +195,6 @@
 
   .videos {
       display: flex;
-      border: 2px solid green;
       padding: 1rem;
       flex-wrap: wrap;
   }
