@@ -190,7 +190,6 @@
   .vidbox{
       display: flex;
       margin: 1rem;
-      max-width:100%;
     flex-wrap: wrap;
     justify-content: space-around;
   }
@@ -198,7 +197,7 @@
   .vids {
       display: flex;
       padding: 1rem;
-    justify-content: space-around;
+    justify-content: center;
   }
 
   video {
