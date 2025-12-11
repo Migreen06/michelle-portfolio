@@ -286,6 +286,10 @@
           transition: ease-in-out 0.3s;
       }
 
+.intro>p {
+    margin:0;
+    padding:0px;
+}
 
       button {
           color: white;
