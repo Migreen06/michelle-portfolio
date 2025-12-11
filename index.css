@@ -273,14 +273,14 @@
           position: absolute;
       }
 
-      nav a {
+      nav, a {
           color: black;
           font-size: 1.1em;
           display: block;
           padding: 12px 25px;
       }
 
-      a:hover nav:hover {
+      a:hover, nav:hover {
           background-color: lawngreen;
           transition: ease-in-out 0.3s;
       }
