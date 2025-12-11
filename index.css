@@ -31,7 +31,7 @@
       font-size: 1.3rem;
       text-align: justify;
       padding: 1rem;
-      color:white;
+      color: white;
       margin-left: 2rem;
       margin-right: 2rem;
   }
@@ -256,7 +256,7 @@
 
       h2 {
           font-size: 1rem;
-        margin-top: 2px;
+          margin-top: 2px;
       }
 
       .menu {
@@ -274,22 +274,25 @@
           position: absolute;
       }
 
-      nav, a {
+      nav,
+      a {
           color: black;
           font-size: 1.1em;
           display: block;
           padding: 5%;
       }
 
-      a:hover, nav:hover {
+      a:hover,
+      nav:hover {
           background-color: darkgreen;
           transition: ease-in-out 0.3s;
       }
 
-.intro>p {
-    margin:0;
-    padding:5px;
-}
+      .intro>p {
+          margin: 0;
+          padding-left: 10px;
+          padding-right:10px;
+      }
 
       button {
           color: white;
@@ -326,8 +329,9 @@
           margin: .5rem;
           padding: 1rem;
       }
-  .subcat {
-    display:inline;
-  }
 
-}
+      .subcat {
+          display: inline;
+      }
+
+  }
