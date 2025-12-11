@@ -282,15 +282,10 @@
       }
 
       a:hover, nav:hover {
-          background-color: lawngreen;
+          background-color: darkgreen;
           transition: ease-in-out 0.3s;
       }
 
-      a:active {
-          color: darkgreen;
-          background-color: transparent;
-          text-decoration: none;
-      }
 
       button {
           color: white;
