@@ -292,7 +292,7 @@
           display: none;
           width: 60%;
           position: absolute;
-          box-shadow: 3px 3px 25px 25px rgba(124, 128, 127, 0.01);
+          box-shadow: 3px 3px 25px 25px rgba(255, 255, 255, 0.5);
       }
 
       nav a {
