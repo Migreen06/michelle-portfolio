@@ -143,7 +143,7 @@
   .skill-list {
       display: flex;
       justify-content: center;
-      padding-left:10%;
+      padding-left: 10%;
   }
 
   .marketing-images,
@@ -173,7 +173,7 @@
       align-content: center;
       vertical-align: middle;
   }
-  
+
 
   .screenshots>img:hover {
       transform: scale(1.1);
@@ -274,7 +274,7 @@
 
       .screenshots>img {
           max-width: 100%;
-          margin:0%;
+          margin: 0%;
       }
 
 
@@ -292,7 +292,6 @@
       .menu {
           position: relative;
           padding: 2%;
-          background:green;
       }
 
       nav {
@@ -306,7 +305,7 @@
       nav a {
           font-size: 1.1em;
           display: block;
-          color:white;
+          color: black;
           padding: 5%;
           margin-left: 0px;
       }
@@ -363,7 +362,7 @@
 
       label {
           display: inline;
-          color: white;
+          background: green;
           font-size: 1em;
           border: none;
       }
