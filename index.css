@@ -198,7 +198,7 @@
       display: flex;
       margin: 1rem;
       flex-wrap: wrap;
-      max-width: 30%;
+      max-width: 100%;
       align-content: center;
       justify-content: space-around;
   }
