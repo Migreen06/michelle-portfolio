@@ -268,24 +268,7 @@
           max-width: 100%;
       }
 
- .menu-icon {
-     display: flex;
-     flex-direction: column;
-     cursor: pointer;
-     width: 30px;
-     gap: 5px;
- }
 
- .menu-icon span {
-     background-color: #333;
-     height: 4px;
-     border-radius: 2px;
-     transition:
-         transform 0.3s,
-         background-color 0.3s;
- }
-
- 
       .gif-gallery {
           justify-items: center;
           display: inline;
