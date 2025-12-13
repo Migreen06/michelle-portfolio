@@ -169,8 +169,8 @@
       display: flex;
       flex-wrap: wrap;
       max-width: 100%;
-      justify-content: space-evenly;
-      margin:5%;
+      justify-content: space-bewteen;
+      margin:0% 8%;
   }
 
 .screenshots>img:hover {
