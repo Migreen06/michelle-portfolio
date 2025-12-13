@@ -292,8 +292,7 @@
           display: none;
           width: 60%;
           position: absolute;
-          box-shadow: 3px 3px 2px 0px #E2E2E2;
-      }
+box-shadow: 3px 3px 25px 25px rgba(124, 128, 127, 0.01);      }
 
       nav a {
           font-size: 1.1em;
@@ -352,7 +351,6 @@
       label {
           display: inline;
           color: white;
-          background-color: green;
           font-size: 1em;
           border: none;
       }
