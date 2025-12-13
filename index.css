@@ -162,14 +162,14 @@
   .screenshots>img {
       max-width: 40%;
       height: auto;
+      align-content: center;
   }
 
   .screenshots {
       display: flex;
       flex-wrap: wrap;
       max-width: 100%;
-      align-content: center;
-      justify-content: space-between;
+      justify-content: space-around;
   }
 
   .metrics {
