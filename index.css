@@ -248,10 +248,6 @@
       margin: 0 auto;
   }
 
-  #menu-toggle {
-      display: none;
-  }
-
   @media screen and (max-width: 600px) {
 
       .metrics,
@@ -351,6 +347,9 @@
           display: inline;
       }
 
+      #menu-toggle {
+          display: none;
+      }
 
 
       #menu-toggle:checked+label+nav {
