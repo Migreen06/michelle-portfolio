@@ -248,12 +248,14 @@
       margin: 0 auto;
   }
 
-   #menu-toggle {
-    display:none;
-   }
-label, input {
-    display:none;
-}
+  #menu-toggle {
+      display: none;
+  }
+
+  label,
+  input {
+      display: none;
+  }
 
 
   @media screen and (max-width: 600px) {
@@ -311,14 +313,7 @@ label, input {
           padding-right: 10px;
       }
 
-      button {
-          color: white;
-          display: inline-flex;
-          background-color: green;
-          font-size: 1em;
-          border: none;
-          padding: 10px 15px;
-      }
+
 
       .container2 {
           padding: 10px;
@@ -355,15 +350,19 @@ label, input {
           display: inline;
       }
 
-     
+
 
       #menu-toggle:checked+label+nav {
           display: block;
       }
 
       label {
-        display:inline;
+          display: inline;
+          color: white;
+          background-color: green;
+          font-size: 1em;
+          border: none;
+          padding: 10px 15px;
       }
-
 
   }
