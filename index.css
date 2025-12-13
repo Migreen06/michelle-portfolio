@@ -248,7 +248,14 @@
       margin: 0 auto;
   }
 
-
+label {
+    display: inline-flex;
+    background-color: green;
+    color: white;
+    font-size: 1em;
+    padding: 10px 15px;
+    cursor: pointer;
+}
   @media screen and (max-width: 600px) {
 
       .metrics,
@@ -359,13 +366,7 @@
       #menu-toggle:checked+label+nav {
           display: block;
       }
-label {
-    display: inline-flex;
-    background-color: green;
-    color: white;
-    font-size: 1em;
-    padding: 10px 15px;
-    cursor: pointer;
-}
+
+
 
   }
