@@ -368,9 +368,18 @@
           padding: 1rem;
       }
 
-      #menu-toggle {
-          display: none;
-      }
+        .menu::after {
+            content: "";
+            position: absolute;
+            pointer-events: none;
+            top: 50%;
+            right: 10px;
+            transform: translate(0, -50%);
+            width: 12px;
+            height: 12px;
+            background-color: #14692F;
+            clip-path: polygon(8% 17%, 0% 25%, 50% 84%, 100% 25%, 92% 17%, 50% 65%);
+        }
 
       .subcat {
           display: inline;
