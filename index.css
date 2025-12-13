@@ -357,4 +357,34 @@
           display: inline;
       }
 
+
+
+
+          .hamburger-menu {
+              position: relative;
+          }
+    
+          /* Hide the Checkbox */
+          #menu-toggle {
+              display: none;
+          }
+    
+          /* Hamburger Icon */
+          .menu-icon {
+              display: flex;
+              flex-direction: column;
+              cursor: pointer;
+              width: 30px;
+              gap: 5px;
+          }
+    
+          .menu-icon span {
+              background-color: #333;
+              height: 4px;
+              border-radius: 2px;
+              transition:
+                  transform 0.3s,
+                  background-color 0.3s;
+          }
+
   }
