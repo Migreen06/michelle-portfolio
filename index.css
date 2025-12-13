@@ -302,6 +302,8 @@
           padding: 5%;
       }
 
+
+
       .intro>p {
           margin: 5%;
           padding-left: 10px;
@@ -356,5 +358,12 @@
           font-size: 1em;
           border: none;
       }
+
+ nav>li {
+     color: white;
+     background-color: transparent;
+     text-decoration: none;
+ }
+
 
   }
