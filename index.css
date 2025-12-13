@@ -131,7 +131,7 @@
       list-style-type: none;
   }
 
-  button {
+  button, .custom-select {
       display: none;
   }
 
