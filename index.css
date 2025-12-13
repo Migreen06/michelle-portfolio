@@ -268,11 +268,15 @@
   @media screen and (max-width: 600px) {
 
       .metrics,
-      .screenshots,
-      .main {
+      .screenshots {
           display: inline;
           max-width: 100%;
           justify-items: center;
+      }
+
+      .main {
+        max-width: 100%;
+        justify-items: center;
       }
 
       .screenshots>img {
