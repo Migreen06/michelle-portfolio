@@ -349,7 +349,7 @@
           display: block;
       }
 
-      label {
+      label, li {
           display: inline;
           color: white;
           font-size: 1em;
