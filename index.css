@@ -69,7 +69,7 @@
   .menu {
       text-align: left;
       font-size: 20px;
-      font-weight:bold;
+      font-weight: bold;
       font-family: Gill Sans;
   }
 
@@ -284,6 +284,7 @@
 
       .menu {
           position: relative;
+          padding: 15px 15px;
       }
 
       nav {
@@ -359,7 +360,6 @@
           background-color: green;
           font-size: 1em;
           border: none;
-          padding: 15px 15px;
       }
 
   }
