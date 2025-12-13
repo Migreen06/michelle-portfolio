@@ -161,15 +161,14 @@
   .screenshots>img {
       max-width: 40%;
       height: auto;
-      align-content: center;
-      vertical-align: middle;
   }
 
   .screenshots {
       display: flex;
       flex-wrap: wrap;
       max-width: 100%;
-      justify-content: space-around;
+      justify-content: space-between;
+      margin:5%;
   }
 
   .metrics {
