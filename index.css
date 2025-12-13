@@ -376,6 +376,9 @@
           border: none;
       }
 
-
+ .dev-images>img {
+     max-width: 100%;
+     height: auto;
+ }
 
   }
