@@ -392,5 +392,17 @@ video {
     max-width: 100%;
 }
 
+.web-dev {
+    display: inline;
+}
+
+.dev-images>img {
+    max-width: 100%;
+}
+
+.dev-images {
+    margin: 0px;
+    display: inline;
+}
 
   }
