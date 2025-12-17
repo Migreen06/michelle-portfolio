@@ -232,7 +232,6 @@
   }
 
 .dev-images > p {
-    display:grid;
     color:white;
     font-size:40px;
     margin:0 auto;
