@@ -238,6 +238,9 @@
     height:auto;
 }
 
+  .dev-images {
+   padding:2%; 
+  }
 
   .container {
       max-width: 600px;
