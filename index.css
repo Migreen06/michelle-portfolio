@@ -239,6 +239,9 @@
       max-width: 50%;
       height: auto;
   }
+.above {
+    display:grid;
+}
 
   .dev-images {
       margin: 20px;
