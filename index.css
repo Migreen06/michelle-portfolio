@@ -229,17 +229,17 @@
   .web-dev {
       display: flex;
       max-width: 100%;
+        justify-content: center;
   }
 
 
 .dev-images>img {
-    max-width:100%;
+    max-width:50%;
 }
 
   .dev-images {
       display: flex;
       flex-wrap: wrap;
-      justify-content: space-evvenly;
   }
 
   .container {
