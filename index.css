@@ -103,8 +103,6 @@
 
 
    .gif-gallery {
-       justify-items: space-around;
-       display: flex;
        max-width: 100%;
    }
 
