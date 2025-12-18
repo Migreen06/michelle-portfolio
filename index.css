@@ -229,7 +229,7 @@
   .web-dev {
       display: flex;
       max-width: 100%;
-      justify-content: center;
+      justify-content: space-around;
   }
 
 
@@ -240,7 +240,7 @@
 
   .dev-images {
       padding: 2%;
-            display: flex;
+    display: flex;
   }
 
   .container {
