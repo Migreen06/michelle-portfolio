@@ -418,4 +418,18 @@
           display: inline;
       }
 
+.banner-box {
+    display: inline;
+}
+
+.banners {
+    display: inline;
+}
+
+.banners>img {
+    max-width: 100%;
+}
+
+
+
   }
