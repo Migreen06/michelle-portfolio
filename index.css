@@ -268,7 +268,7 @@
     max-width: 50%;
     display:flex;
   }
-.banners {
+.banners>img {
     max-width: 50%;
 }
 
