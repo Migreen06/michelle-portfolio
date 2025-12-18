@@ -244,7 +244,7 @@
       display:flex;
             flex-wrap: wrap;
             max-width: 100%;
-            align-content: center;
+            align-items: stretch;
   }
 
   .container {
