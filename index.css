@@ -269,6 +269,10 @@
     display:flex;
   }
  
+  .banners {
+    display:flex;
+  }
+
 .banners>img {
     max-width: 50%;
 }
