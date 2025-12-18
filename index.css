@@ -230,6 +230,7 @@
       display: flex;
       max-width: 100%;
       justify-content: space-around;
+            flex-wrap: wrap;
   }
 
 
@@ -240,6 +241,7 @@
 
   .dev-images {
       padding: 2%;
+      display:flex;
   }
 
   .container {
