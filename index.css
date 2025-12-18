@@ -264,6 +264,10 @@
       display: none;
   }
 
+  .banner-box {
+    max-width: 100%;
+    display:flex;
+  }
 .banners {
     max-width: 50%;
 }
