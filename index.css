@@ -15,7 +15,6 @@
   }
 
   header {
-    animation:headings 3s 1;
       font-family: Arial, Helvetica, sans-serif;
       background: green;
       color: black;
@@ -24,6 +23,7 @@
   }
 
   h1 {
+    animation: headings 3s 1;
       font-size: 36px;
       text-align: center;
   }
