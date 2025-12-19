@@ -319,10 +319,12 @@ h3 {
     max-width:50%;
 }
 
+.fullpage {
+    max-width:100%;
+}
 
 .fullpage>img {
     max-width: 600px;
-    margin:0 auto;
     height:auto;
 }
 
