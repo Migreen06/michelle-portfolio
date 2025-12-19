@@ -321,7 +321,7 @@ h3 {
 
 .fullpage {
     max-width:100%;
-    display:inline-flex;
+    display:block;
 }
 
 .fullpage>img {
