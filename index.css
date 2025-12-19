@@ -302,6 +302,11 @@
     max-width:50%;
 }
 
+.fullpage {
+    max-width:100%;
+    padding: 0px 10px;
+}
+
 
   @media screen and (max-width: 600px) {
 
