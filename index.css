@@ -303,7 +303,7 @@
 }
 
 .fullpage-images>img {
-    max-width:100%;
+    max-width:90%;
 }
 .fullpage {
     display: flex;
