@@ -1,6 +1,6 @@
  @keyframes headings {
-    0% {top:0%};
-    100% {top:auto};
+    from {translatex:0};
+    to {translatex:100px};
  }
  
  * {
@@ -15,7 +15,7 @@
   }
 
   header {
-    animation:headings 3s;
+    animation:headings 3s 1;
       font-family: Arial, Helvetica, sans-serif;
       background: green;
       color: black;
