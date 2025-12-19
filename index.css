@@ -1,6 +1,6 @@
  @keyframes expand {
     0% {
-        traansform: scale(.5);
+        transform: scale(.5);
     }
     100% {
         transform: scale(1);
