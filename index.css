@@ -299,10 +299,6 @@
     max-width:100%;
 }
 
-.webpage-images>p {
-    display:grid;
-    align-content: center;
-}
 
 .webpage-images {
     display:flex;
