@@ -320,7 +320,7 @@ h3 {
 }
 
 
-.fullpage {
+.fullpage>img {
     max-width: 600px;
     height:auto;
 }
