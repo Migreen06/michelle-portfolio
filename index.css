@@ -322,6 +322,7 @@ h3 {
 
 .fullpage>img {
     max-width: 600px;
+    margin:0 auto;
     height:auto;
 }
 
