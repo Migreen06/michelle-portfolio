@@ -1,9 +1,9 @@
- @keyframes slide {
+ @keyframes expand {
     from {
-        transform: translate(0px);
+        width:0%;
     }
     to {
-        transform: translate(100px);
+        width:100%;
     }
  }
  
@@ -27,7 +27,7 @@
   }
 
   h1 {
-    animation: slide 3s 1;
+    animation: expand 3s 1;
       font-size: 36px;
       text-align: center;
   }
