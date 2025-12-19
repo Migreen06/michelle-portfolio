@@ -302,10 +302,8 @@
     max-width:50%;
 }
 
-.fullpage-images {
-    max-width:80%;
-    display:grid;
-    padding: 0px 10px;
+.fullpage-images>img {
+    max-width:100%;
 }
 .fullpage {
     display: flex;
