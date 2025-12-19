@@ -449,4 +449,14 @@
           vertical-align: middle;
       }
 
+.webpage {
+    display: inline;
+}
+
+
+.webpage-images p {
+    display: grid;
+    max-width: 50%;
+}
+
   }
