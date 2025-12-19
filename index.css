@@ -1,9 +1,9 @@
  @keyframes expand {
-    from {
-        width:0%;
+    0% {
+        traansform: scale(1.5);
     }
-    to {
-        width:100%;
+    100% {
+        transform: scale(1);
     }
  }
  
@@ -27,7 +27,7 @@
   }
 
   h1 {
-    animation: expand 3s 1;
+    animation: transform 3s 1;
       font-size: 36px;
       text-align: center;
   }
