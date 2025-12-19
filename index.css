@@ -294,6 +294,17 @@
       max-width: 50%;
   }
 
+.webpage {
+    display:flex;
+    max-width:100%;
+}
+
+.webpage-images {
+    display:flex;
+    max-width:50%;
+}
+
+
   @media screen and (max-width: 600px) {
 
       .metrics,
