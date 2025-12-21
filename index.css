@@ -347,7 +347,8 @@ h3 {
           justify-items: center;
           display: inline;
           padding: 0px;
-          max-width: 100%;
+          width: 100%;
+          margin:0 auto;
       }
 
       h2 {
