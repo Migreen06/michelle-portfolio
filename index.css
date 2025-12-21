@@ -129,17 +129,7 @@
       vertical-align: middle;
   }
 
-  .videos,
-  .videos>video {
-      width: auto;
-      height: 300px;
-  }
-
-  .video-box {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-  }
+  
 
   nav {
       max-width: 100vw;
@@ -235,8 +225,8 @@
   }
 
   video {
-      height: auto;
-      max-width: 50%;
+      height: 300px;
+      width: auto;
   }
 
   .design-list {
