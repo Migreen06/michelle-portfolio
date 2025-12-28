@@ -1,9 +1,14 @@
-name = "browser-worker"
-main = "src/index.js"
-compatibility_date = "2025-12-28"
-compatibility_flags = [ "nodejs_compat" ]
+[observability]
+enabled = true
+head_sampling_rate = 1
 
-browser = { binding = "MYBROWSER" }
-kv_namespaces = [
-  { binding = "BROWSER_KV_DEMO", id = "f5b9998e03fb41bc9a6d0d6da97c86a3" }
-]
+[observability.logs]
+enabled = true
+head_sampling_rate = 1
+persist = true
+invocation_logs = true
+
+[observability.traces]
+enabled = true
+persist = true
+head_sampling_rate = 1
