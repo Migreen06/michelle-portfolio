@@ -125,7 +125,7 @@
      align-items: center;
      max-width: 100%;
      height: auto;
-     justify-items:center;
+     justify-items: center;
      padding: .5rem;
  }
 
@@ -237,7 +237,7 @@
  .design-list {
      display: flex;
      justify-content: space-around;
-     margin:auto;
+     margin: auto;
  }
 
  .web-dev {
@@ -331,18 +331,18 @@
  }
 
  .fullpage>h3 {
-    margin:auto;
-    max-width:80%;
-    color:black;
-    font-size:22px;
-    border-radius:10px;
-    padding:20px 80px;
-    background-color:darkgray
+     margin: auto;
+     max-width: 80%;
+     color: black;
+     font-size: 22px;
+     border-radius: 10px;
+     padding: 20px 80px;
+     background-color: darkgray
  }
 
  .fullpage>h2 {
-    font-size:35px;
-    padding-bottom:2em;
+     font-size: 35px;
+     padding-bottom: 2em;
  }
 
 
@@ -370,7 +370,7 @@
      .gif-gallery {
          display: grid;
          padding: 0px;
-         justify-items:center;
+         justify-items: center;
          width: 100%;
      }
 
@@ -507,15 +507,16 @@
          height: auto;
      }
 
-         .fullpage>h3 {
-             max-width: 90%;
-             background-color: darkgray;
-         }
-    
-         .fullpage>h2 {
-             font-size:25px;
-             padding-bottom: 2em;   
-            }
+     .fullpage>h3 {
+         max-width: 100%;
+         font-size: 18px;
+         background-color: darkgray;
+     }
+
+     .fullpage>h2 {
+         font-size: 25px;
+         padding-bottom: 2em;
+     }
 
 
  }
