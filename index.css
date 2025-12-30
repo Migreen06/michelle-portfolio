@@ -318,6 +318,7 @@
  .fullpage {
      max-width: 80%;
      display: grid;
+     overflow: hidden;
  }
 
  .fullpage>img {
