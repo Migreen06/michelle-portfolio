@@ -38,7 +38,7 @@
  }
 
  h1 {
-     animation: slide .5s ease;
+     animation: slide 2s ease;
      font-size: 36px;
      text-align: center;
  }
