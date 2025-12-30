@@ -321,11 +321,15 @@
  }
 
  .fullpage>img {
-     width: 800px;
+     width: 900px;
      height: auto;
      margin: 0 auto;
  }
 
+ .fullpage>h3 {
+    background-color:green;
+    padding:3em;
+ }
 
  @media screen and (max-width: 600px) {
 
