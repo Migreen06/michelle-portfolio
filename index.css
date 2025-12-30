@@ -316,13 +316,12 @@
  }
 
  .fullpage {
-     max-width: 80%;
+     max-width: 100%;
      display: grid;
-     overflow: hidden;
  }
 
  .fullpage>img {
-     width: max-content;
+     width: 800px;
      height: auto;
      margin: 0 auto;
  }
