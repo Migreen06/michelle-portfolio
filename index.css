@@ -23,7 +23,7 @@
      }
 
      100% {
-         transform: translatex(-300px);
+         transform: translatex(100px);
      }
  }
  * {
