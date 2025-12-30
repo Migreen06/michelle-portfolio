@@ -19,11 +19,11 @@
  }
  @keyframes slide2 {
      0% {
-         transform: translatex(-200px)
+         transform: translatex(-300px)
      }
 
      100% {
-         transform: translatex(0%);
+         transform: translatex(100%);
      }
  }
  * {
@@ -31,13 +31,13 @@
  }
 
  .first-word {
-     animation: slide 2s ease-in;
+     animation: slide 3s ease-in;
      font-size: 36px;
      text-align: center;
  }
 
  .second-word {
-     animation: slide2 2s ease-in;
+     animation: slide2 3s ease-in;
      font-size: 36px;
      text-align: center;
  }
