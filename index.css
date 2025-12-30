@@ -508,12 +508,13 @@
 
          .fullpage>h3 {
              max-width: 90%;
-             background-color: darkgreen;
+             background-color: darkgray;
          }
     
          .fullpage>h2 {
              font-size:25px;
-             padding-bottom: 2em;   }
+             padding-bottom: 2em;   
+            }
 
 
  }
