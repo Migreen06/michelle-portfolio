@@ -509,7 +509,8 @@
 
      .fullpage>h3 {
          max-width: 100%;
-         font-size: 18px;
+         border-radius:1px;
+         font-size: 16px;
          padding:10px 20px;
          background-color: darkgray;
      }
