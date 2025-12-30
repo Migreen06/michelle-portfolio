@@ -337,10 +337,14 @@
  }
 
  .fullpage>h3 {
-    background-color:green;
+    background-color:darkgreen;
     padding:2em;
  }
 
+ .fullpage>h2 {
+    font-size:35px;
+    padding-bottom:2em;
+ }
  @media screen and (max-width: 600px) {
 
      .metrics,
