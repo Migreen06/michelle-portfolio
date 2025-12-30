@@ -509,4 +509,14 @@
          height: auto;
      }
 
+         .fullpage>h3 {
+             max-width: 90%;
+             background-color: darkgreen;
+         }
+    
+         .fullpage>h2 {
+             font-size:25px;
+             padding-bottom: 2em;   }
+
+
  }
