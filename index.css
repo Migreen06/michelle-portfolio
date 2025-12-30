@@ -31,13 +31,13 @@
  }
 
  .first-word {
-     animation: slide 3s ease-in;
+     animation: slide1 3s ease-in;
      font-size: 36px;
      text-align: center;
  }
 
  .second-word {
-     animation: slide2 3s ease-in;
+     animation: slide 3s ease-in;
      font-size: 36px;
      text-align: center;
  }
