@@ -31,7 +31,7 @@
  }
 
  .first-word {
-     animation: slide1 3s ease-in;
+     animation: slide2 3s ease-in;
      font-size: 36px;
      text-align: center;
  }
