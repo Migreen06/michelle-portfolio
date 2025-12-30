@@ -8,6 +8,16 @@
      }
  }
 
+ @keyframes slide {
+     0% {
+         transform: translatex(10px)
+     }
+
+     100% {
+         transform: translatex(300px);
+     }
+ }
+
  * {
      box-sizing: border-box;
  }
@@ -28,7 +38,7 @@
  }
 
  h1 {
-     animation: expand .5s ease;
+     animation: slide .5s ease;
      font-size: 36px;
      text-align: center;
  }
