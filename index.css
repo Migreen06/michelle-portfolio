@@ -339,13 +339,17 @@
 
 
 .grid-item:hover {
-    transform:scalex(1.1em);
-    transform:translateX(1em);
+    transform:scaley(1.1em);
+    transform:translatey(1em);
     transition: all 0.3s ease-in-out;
 }
 
  @media screen and (max-width: 600px) {
+    .grid-item:hover {
+        display:none;
+    }
 
+    
      .metrics,
      .screenshots {
          max-width: 100%;
