@@ -339,8 +339,8 @@
 
 
 .grid-item:hover {
-    transform:scaley(1.1em);
-    transform:translatey(1em);
+    transform:scaley(1em);
+    transform:translatey(.5em);
     transition: all 0.3s ease-in-out;
 }
 
@@ -349,7 +349,7 @@
         display:none;
     }
 
-    
+
      .metrics,
      .screenshots {
          max-width: 100%;
