@@ -212,6 +212,7 @@
      display: flex;
      flex-wrap: wrap;
      max-width: 100%;
+     margin:auto;
      align-content: center;
      justify-content: space-around;
  }
@@ -222,9 +223,8 @@
  }
 
  video {
-     height: 300px;
+     max-height: 300px;
         vertical-align: middle;
-        margin:auto;
  }
 
  .design-list {
