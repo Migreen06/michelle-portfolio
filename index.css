@@ -29,8 +29,7 @@
 
  header {
      font-family: Arial, Helvetica, sans-serif;
-     background: darkgreen;
-     color: black;
+     background-color: gradient(to right, darkgreen,green,black,darkgreen);
      text-align: center;
      padding: 30px;
  }
