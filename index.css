@@ -189,15 +189,6 @@
      vertical-align: middle;
  }
 
-
- .screenshots>img:hover {
-     transform: scale(1.1);
- }
-
- .marketing-images>img:hover {
-     transform: scale(1.1);
- }
-
  .metrics {
      max-width: 100%;
      padding-top: 1.5rem;
