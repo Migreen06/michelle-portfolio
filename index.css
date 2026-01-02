@@ -216,15 +216,15 @@
 
  .vids {
      justify-content: space-around;
-    max-width:100%;
-     margin:0 auto;
-     display:flex;
-        flex-wrap: wrap;
+     max-width: 100%;
+     margin: 0 auto;
+     display: flex;
+     flex-wrap: wrap;
  }
 
  video {
      max-height: 300px;
-    vertical-align: middle;
+     vertical-align: middle;
  }
 
  .design-list {
@@ -339,29 +339,34 @@
  }
 
 
-.subcat > *:hover {
-        transform: translatey(.5em);
-        transition: all 0.3s ease-in-out;
-}
+ .subcat>*:hover {
+     transform: translatey(.5em);
+     transition: all 0.3s ease-in-out;
+ }
 
-.marketing-images>img:hover {
-    transform:scale(1.1em);
-    transition: all 0.3s ease-in-out;
-}
+ .marketing-images>img:hover {
+     transform: scale(1.1em);
+     transition: all 0.3s ease-in-out;
+ }
 
-.grid-item:hover {
-    transform:translatey(.5em);
-    transition: all 0.3s ease-in-out;
-}
+ .grid-item:hover {
+     transform: translatey(.5em);
+     transition: all 0.3s ease-in-out;
+ }
 
  @media screen and (max-width: 600px) {
-    .grid-item:hover {
-        display:none;
-    }
+     .grid-item:hover {
+         display: none;
+     }
 
-    .header {
-        background-color:darkgreen
-    }
+     .marketing-images>img:hover {
+         display: none;
+     }
+
+     .header {
+         background-color: darkgreen
+     }
+
      .metrics,
      .screenshots {
          max-width: 100%;
@@ -460,8 +465,8 @@
          display: inline;
          background: darkgreen;
          font-size: 1em;
-         padding:.2em;
-         color:white;
+         padding: .2em;
+         color: white;
          border: none;
      }
 
