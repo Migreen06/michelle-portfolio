@@ -387,6 +387,7 @@
      }
 
      nav {
+         background-color: rgba(0, 20, 0, 0.80);
          display: none;
          width: 60%;
          position: absolute;
@@ -396,7 +397,7 @@
      nav a {
          font-size: 1.1em;
          display: block;
-         color: white;
+         color: black;
          padding: 5%;
          margin-left: 0px;
      }
