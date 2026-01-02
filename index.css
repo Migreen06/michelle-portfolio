@@ -455,6 +455,8 @@
          display: inline;
          background: darkgreen;
          font-size: 1em;
+         padding:.2em;
+         color:white;
          border: none;
      }
 
