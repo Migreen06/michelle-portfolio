@@ -339,7 +339,7 @@
  }
 
 
-.category > *:hover {
+.subcat > *:hover {
     transform: scaley(1em);
         transform: translatey(.5em);
         transition: all 0.3s ease-in-out;
