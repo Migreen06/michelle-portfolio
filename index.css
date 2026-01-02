@@ -351,7 +351,9 @@
         display:none;
     }
 
-
+    .header {
+        background-color:darkgreen
+    }
      .metrics,
      .screenshots {
          max-width: 100%;
@@ -385,7 +387,6 @@
      }
 
      nav {
-         background-color: rgba(0, 20, 0, 0.80);
          display: none;
          width: 60%;
          position: absolute;
