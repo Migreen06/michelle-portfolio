@@ -21,13 +21,6 @@
       },
     "workers_dev": true,
     "preview_urls": true,
-       "workflows": [
-        {
-          "binding": "MY-WORKFLOW",
-          "name": "workflow-michelle-green",
-          "script_name": "michelle-green"
-        }
-       ],
       "kv_namespaces": [
         {
           "id": "f5b9998e03fb41bc9a6d0d6da97c86a3",
