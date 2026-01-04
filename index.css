@@ -327,7 +327,7 @@
  .fullpage>h3 {
      margin: auto;
      max-width: 80%;
-     color: black;
+     color: white;
      font-size: 22px;
      border-radius: 10px;
      padding: 18px 70px;
@@ -354,6 +354,11 @@
      transform: translatey(.5em);
      transition: all 0.3s ease-in-out;
  }
+
+
+
+
+ 
 
  @media screen and (max-width: 600px) {
      .grid-item:hover {
