@@ -2,8 +2,45 @@
   "name": "michelle-portfolio",
   "main": "src/index.js",
   "compatibility_date": "2025-12-29",
-
   "assets": {
     "directory": "/"
-  }
-}
+  },
+  "compatibility_flags": [
+    "enable_nodejs_http_server_modules",
+    "enable_nodejs_http_modules"
+  ],
+  "routes": [
+        {
+          "pattern": "michelle-portfolio.dev",
+          "zone_name": "michelle-portfolio.dev",
+          "custom_domain": true
+        }
+       ],
+      "placement": {
+        "mode": "smart"
+      },
+    "workers_dev": true,
+    "preview_urls": true,
+       "workflows": [
+        {
+          "binding": "MY-WORKFLOW",
+          "name": "workflow-michelle-green",
+          "script_name": "michelle-green"
+        }
+       ],
+      "kv_namespaces": [
+        {
+          "id": "f5b9998e03fb41bc9a6d0d6da97c86a3",
+          "binding": "MY-BINDING"
+        }
+       ],
+      "observability": {
+        "logs": {
+          "enabled": true
+        },
+        "traces": {
+          "enabled": true
+        }
+      }
+    }
+    
