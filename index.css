@@ -99,6 +99,9 @@
      text-decoration: none;
  }
 
+nav > a:visited {
+    color:white;
+}
 
  a:visited {
      color: darkgreen;
