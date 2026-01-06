@@ -282,7 +282,6 @@ nav>a {
  label,
  input {
      display: none;
-     color:white;
  }
 
  .banner-box {
@@ -483,7 +482,7 @@ nav>a {
 
      label {
          display: inline;
-         background: black;
+         background: darkgreen;
          font-size: 1em;
          padding: .2em;
          color: white;
