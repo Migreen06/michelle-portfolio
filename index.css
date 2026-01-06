@@ -104,6 +104,7 @@ nav>a:visited {
 }
 
  a:visited {
+     color: darkgreen;
      background-color: transparent;
      text-decoration: none;
  }
