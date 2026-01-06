@@ -134,7 +134,9 @@
      vertical-align: middle;
  }
 
-
+nav>li {
+    color:white;
+}
 
  nav {
      max-width: 100vw;
