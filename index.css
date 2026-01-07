@@ -368,17 +368,7 @@
 
 
  @media screen and (max-width: 600px) {
-     .grid-item:hover {
-         display: none;
-     }
 
-     .marketing-images>img:hover {
-         display: none;
-     }
-
-     .subcat>*:hover {
-         display: none;
-     }
 
 
      .header {
