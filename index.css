@@ -104,7 +104,7 @@ li>a:link {
 }
 
  a:visited {
-     color: white;
+     color: green;
      background-color: transparent;
      text-decoration: none;
  }
