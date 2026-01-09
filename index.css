@@ -546,6 +546,12 @@
          padding-bottom: 2em;
      }
 
+    .fullpage>h3 {
+        max-width: 90%;
+        font-size: 18px;
+        padding: 10px 30px;
+    }
+
      .grid-container {
          display: inline;
          max-width: 100%;
