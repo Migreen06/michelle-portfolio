@@ -382,7 +382,7 @@
      }
 
      .gif-gallery {
-         display: flex;
+         display: grid;
          padding: 0px;
          justify-items: center;
          width: 100%;
