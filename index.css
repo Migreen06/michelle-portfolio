@@ -133,6 +133,7 @@
 
  .gif-gallery>img {
      max-width: 60%;
+     margin:auto;
      height: auto;
      padding: .5rem;
  }
