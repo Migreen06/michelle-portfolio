@@ -129,7 +129,6 @@
  .gif-gallery {
      max-width: 100%;
     justify-content: center;
-        display: flex;
  }
 
  .gif-gallery>img {
