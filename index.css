@@ -126,11 +126,12 @@
 
 
  .gif-gallery {
-     width: 100%;
-     margin:auto;
-     align-content: center;
-    justify-content: space-evenly;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
  }
+
 
  .gif-gallery>img {
      margin:auto;
