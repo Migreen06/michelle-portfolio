@@ -181,7 +181,7 @@
      display: flex;
  }
 
- li {
+ nav>li {
      list-style-type: none;
  }
 
