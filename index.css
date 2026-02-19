@@ -1,13 +1,15 @@
- @keyframes expand {
-     0% {
-         transform: scale(.5);
-     }
+@keyframes slideInFromBottom {
+    from {
+        opacity: 0;
+        transform: translateY(50px);
+        /* Start 50px below its final position */
+    }
 
-     100% {
-         transform: scale(1);
-     }
- }
-
+    to {
+        opacity: 1;
+        transform: translateY(0);
+        /* End at its natural position */
+    } }
 
  * {
      box-sizing: border-box;
@@ -78,8 +80,9 @@
      font-size: 1.8rem;
      margin-top: 10px;
      color: white;
-    animation: expand 1.5s ease forwards;
- }
+     opacity: 0;
+     animation: slideInFromBottom 1s ease-out forwards;
+   } 
 
 
 
