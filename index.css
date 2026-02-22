@@ -266,7 +266,7 @@
  }
 
  video {
-     max-height: 300px;
+     max-height: 400px;
      vertical-align: middle;
  }
 
@@ -351,16 +351,17 @@
      max-width: 100%;
  }
 
- h3 {
-     color: white;
-     text-align: center;
-     font-size: 25px;
- }
 
  .webpage-images p {
      padding-top: 2%;
      display: grid;
      max-width: 50%;
+ }
+
+ h3 {
+     color: white;
+     text-align: center;
+     font-size: 25px;
  }
 
  .fullpage {
