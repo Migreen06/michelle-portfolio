@@ -106,6 +106,8 @@
      color: green;
      font-size: 25px;
      font-weight:bold;
+     border: 2px solid rgba(2, 70, 2, 0.24);
+     padding: 20px;
     animation: reveal 1.5s ease forwards;
      text-align: center;
  }
