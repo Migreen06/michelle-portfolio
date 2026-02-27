@@ -103,6 +103,7 @@
 
  .grid-item {
      color: green;
+     background-color: rgba(70, 82, 70, 0.527);
      font-size: 25px;
      font-weight:bold;
      border: 2px solid rgba(70, 82, 70, 0.527);
