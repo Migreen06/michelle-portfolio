@@ -106,8 +106,8 @@
      background-color: rgba(70, 82, 70, 0.527);
      font-size: 25px;
      font-weight:bold;
-     border: 2px solid rgba(70, 82, 70, 0.527);
      padding: 20px;
+     box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.5);
     animation: reveal 1.5s ease forwards;
      text-align: center;
  }
