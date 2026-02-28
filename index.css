@@ -116,7 +116,6 @@
 
  .grid-item>img {
     animation: reveal 1.5s ease forwards;
-    border: 5px solid white;
 }
 
 
