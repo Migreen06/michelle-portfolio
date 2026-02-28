@@ -120,7 +120,7 @@ footer {
     color: green;
     font-size: 25px;
     font-weight: bold;
-    animation: slideleft 1.5s ease forwards;
+    animation: slideleft 2s ease forwards;
     text-align: center;
 }
 
