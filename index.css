@@ -116,13 +116,8 @@ footer {
 
 .grid-item {
     color: green;
-    background-color: rgba(87, 84, 84, 0.415);
     font-size: 25px;
     font-weight: bold;
-    border-radius: 25px;
-    margin: 20px 15px;
-    padding: 0px 0px 50px 0px;
-    box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.399);
     animation: slideleft 1.5s ease forwards;
     text-align: center;
 }
