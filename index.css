@@ -13,7 +13,7 @@
 @keyframes slideleft {
     from {
         opacity: 0;
-        transform: translateY(150px);
+        transform: translatex(150px);
     }
 
     to {
