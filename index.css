@@ -124,8 +124,8 @@ footer {
     text-align: center;
 }
 
-.grid-item>img {
-    animation: slideleft 1.5s ease forwards;
+.grid-item>a:hover {
+    scale:expand(1.1);
 }
 
 
