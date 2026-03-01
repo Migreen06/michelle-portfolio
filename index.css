@@ -124,8 +124,8 @@ footer {
     text-align: center;
 }
 
-.grid-item>a:hover {
-    scale:expand(1.1);
+.grid-container:hover {
+    opacity:0;
 }
 
 
