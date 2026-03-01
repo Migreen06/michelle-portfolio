@@ -124,7 +124,7 @@ footer {
     text-align: center;
 }
 
-.grid-container>img:hover {
+.grid-container>*:hover {
     scale: 1.05;
     transition: all 0.3s ease-in-out;
 }
