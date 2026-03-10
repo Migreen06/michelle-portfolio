@@ -99,7 +99,15 @@ h2 {
     animation: slideInFromBottom 1s ease-out forwards;
 }
 
-
+.corp {
+    margin:50px;
+    text-align:right;
+    font-size:10px;
+    color:white;
+    position:absolute;
+    right:0;
+    bottom:0;
+}
 
 footer {
     font-size: .5rem;
