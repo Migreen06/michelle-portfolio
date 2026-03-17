@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-family: ComicSansMS-Bold, 'Comic Sans MS';
+        font-size: 82px;
+        font-weight: 700;
+        letter-spacing: -.03em;
+      }
+
+      .cls-3 {
+        fill: #006837;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-3" width="160" height="160" rx="40.1" ry="40.1"/>
+  <text class="cls-1" transform="translate(17.04 109.71)"><tspan x="0" y="0">MG</tspan></text>
+  <text class="cls-2" transform="translate(13.04 107.71)"><tspan x="0" y="0">MG</tspan></text>
+</svg>
