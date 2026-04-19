@@ -567,6 +567,10 @@ li {
     }
 
 
+    .webpage-images>img {
+        display:inline;
+        width:100%;
+    }
 
     .dev-labels {
         display: flex;
@@ -575,8 +579,7 @@ li {
 
     .dev-images>img {
         height: auto;
-        width: 100%;
-        display:inline-block;
+        max-width: 100%;
     }
 
 
