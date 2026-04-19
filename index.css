@@ -13,13 +13,13 @@
 @keyframes slideleft {
     from {
         opacity: 0;
-        scale:0%;
+        scale: 0%;
         transform: translatex(150px);
     }
 
     to {
         opacity: 1;
-        scale:100%;
+        scale: 100%;
         transform: translateY(0);
     }
 }
@@ -100,12 +100,12 @@ h2 {
 }
 
 .corp {
-    text-align:right;
-    font-size:10px;
-    color:white;
-    margin:50px;
-    right:0;
-    bottom:0;
+    text-align: right;
+    font-size: 10px;
+    color: white;
+    margin: 50px;
+    right: 0;
+    bottom: 0;
 }
 
 footer {
@@ -177,10 +177,10 @@ ul {
 
 
 .gif-gallery {
+    column-count: 3;
+    column-gap: 5px;
     width: 100%;
-    margin: auto;
-    display: flex;
-    flex-wrap: wrap;
+    padding-top: 5px;
 }
 
 
@@ -428,9 +428,9 @@ li {
 }
 
 h3 {
-    color:white;
-    text-align:center;
-    font-size:20px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
 }
 
 
@@ -506,7 +506,7 @@ h3 {
 
     .intro>p {
         margin: 0px;
-        font-size:1rem;
+        font-size: 1rem;
     }
 
     .grid-item {
@@ -569,8 +569,8 @@ h3 {
 
 
     .webpage-images>img {
-        display:inline;
-        width:100%;
+        display: inline;
+        width: 100%;
     }
 
     .dev-labels {
@@ -621,10 +621,10 @@ h3 {
     }
 
     .webpage-images>img {
-            display: inline-block;
-            max-width:100%;
-            width:100%;
-        }
+        display: inline-block;
+        max-width: 100%;
+        width: 100%;
+    }
 
 
     .webpage-images p {
@@ -632,9 +632,9 @@ h3 {
         max-width: 50%;
     }
 
-        .webpage-images h3 {
-            font-size:18px;
-        }
+    .webpage-images h3 {
+        font-size: 18px;
+    }
 
     .fullpage {
         max-width: 100%;
@@ -644,7 +644,7 @@ h3 {
     .fullpage>img {
         max-width: 100%;
         height: auto;
-        display:inline-block;
+        display: inline-block;
     }
 
     .fullpage>h2 {
