@@ -391,7 +391,7 @@ input {
     height: auto;
     margin: auto;
     border-radius:8px;
-    border: 2px solid white;
+    border: 1.5px solid darkslategray;
 }
 
 .fullpage>h3 {
