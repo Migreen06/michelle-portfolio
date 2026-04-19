@@ -619,7 +619,7 @@ li {
         display: inline;
     }
 
-        .webpage>img {
+        .webpage-images>img {
             display: inline-block;
             width:100%;
         }
