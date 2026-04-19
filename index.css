@@ -619,6 +619,11 @@ li {
         display: inline;
     }
 
+        .webpage>img {
+            display: inline-block;
+            width:100%;
+        }
+
 
     .webpage-images p {
         display: grid;
