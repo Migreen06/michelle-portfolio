@@ -400,14 +400,27 @@ h3 {
     margin: auto;
     max-width: 80%;
     font-size: 22px;
-    border-radius: 10px;
     padding: 18px 70px;
-    background-color: rgba(52, 51, 51, .6);
+    animation: pulse 2s infinite;
 }
 
 .fullpage>h2 {
     font-size: 25px;
     padding-bottom: 1.5em;
+}
+
+@keyframes pulse {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.4;
+    }
+
+    100% {
+        opacity: 1;
+    }
 }
 
 .subcat>*:hover {
@@ -647,7 +660,6 @@ li {
         max-width: 90%;
         font-size: 18px;
         padding: 10px 30px;
-        animation:pulse 2s infinite;
     }
 
     .grid-container {
