@@ -536,9 +536,6 @@ li {
         font-size: 18px;
     }
 
-    h2 {
-        font-size: 20px;
-    }
 
     .subcat {
         display: inline;
@@ -648,8 +645,9 @@ li {
 
     .fullpage>h3 {
         max-width: 90%;
-        font-size: 16px;
+        font-size: 18px;
         padding: 10px 30px;
+        animation:pulse 2s infinite;
     }
 
     .grid-container {
