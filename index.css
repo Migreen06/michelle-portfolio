@@ -358,7 +358,7 @@ input {
 }
 
 .webpage-images>img {
-    max-width: 50vw;
+    width: 50vw;
 }
 
 
@@ -622,6 +622,7 @@ h3 {
     .webpage-images>img {
             display: inline-block;
             max-width:100%;
+            width:100%;
         }
 
 
