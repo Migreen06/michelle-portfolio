@@ -390,8 +390,6 @@ input {
     max-width: 90%;
     height: auto;
     margin: auto;
-    border-radius:8px;
-    border: 1.5px solid darkslategray;
 }
 
 .fullpage>h3 {
