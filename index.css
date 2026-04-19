@@ -630,10 +630,7 @@ li {
         display: inline-block;
     }
 
-    .fullpage>img {
-        max-width: 100%;
-        height: auto;
-    }
+    
 
     .fullpage>h2 {
         font-size: 25px;
