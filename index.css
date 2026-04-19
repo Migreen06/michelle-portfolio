@@ -475,7 +475,7 @@ h3 {
 
 
     h2 {
-        font-size: .8rem;
+        font-size: 1rem;
         margin-top: 2px;
     }
 
@@ -494,7 +494,7 @@ h3 {
     }
 
     nav a {
-        font-size: 1.1em;
+        font-size: 1em;
         color: white;
         display: block;
         line-height: 2em;
@@ -506,7 +506,7 @@ h3 {
 
     .intro>p {
         margin: 0px;
-        font-size:.8rem;
+        font-size:1rem;
     }
 
     .grid-item {
