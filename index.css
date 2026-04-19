@@ -225,18 +225,7 @@ nav>li {
     color: white;
 }
 
-.marketing-images,
-.marketing-assets {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    max-width: 100%;
-}
 
-.marketing-images>img {
-    max-width: 32%;
-    height: auto;
-}
 
 .screenshots>img {
     width: 45%;
