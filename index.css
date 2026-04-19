@@ -506,6 +506,7 @@ h3 {
 
     .intro>p {
         margin: 0px;
+        font-size:.8rem;
     }
 
     .grid-item {
