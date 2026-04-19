@@ -495,7 +495,7 @@ h3 {
 
 
 
-    .intro>p {
+    .intro>p, ol {
         margin: 0px;
         font-size: 1rem;
     }
