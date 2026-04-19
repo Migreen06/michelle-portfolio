@@ -567,6 +567,11 @@ li {
     }
 
 
+    .webpage-images {
+        display:inline;
+        width:100%;
+    }
+
     .dev-labels {
         display: flex;
         flex-direction: column;
