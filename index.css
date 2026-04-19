@@ -396,8 +396,6 @@ input {
     margin: auto;
     max-width: 80%;
     font-size: 30px;
-    padding: 18px 70px;
-    text-decoration: underline;
     animation: pulse 2s infinite;
 }
 
