@@ -380,6 +380,7 @@ input {
 }
 
 
+
 .fullpage {
     max-width: 100%;
     display: grid;
@@ -436,6 +437,10 @@ input {
 
 li {
     color: white;
+}
+
+h3 {
+    color:white;
 }
 
 
