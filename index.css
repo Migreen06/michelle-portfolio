@@ -640,6 +640,10 @@ li {
         max-width: 50%;
     }
 
+        .webpage-images h3 {
+            font-size:18px;
+        }
+
     .fullpage {
         max-width: 100%;
         display: inline-block;
