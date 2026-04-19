@@ -263,7 +263,7 @@ nav>li {
     animation: reveal 1.5s ease forwards;
     margin: 1rem;
     display: flex;
-    margin-top: 5%;
+    margin-top: 2%;
     justify-content: space-evenly;
 }
 
