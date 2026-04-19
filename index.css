@@ -495,7 +495,7 @@ h3 {
 
 
 
-    .intro>p, ol {
+    .intro>p ol {
         margin: 0px;
         font-size: 1rem;
     }
@@ -639,8 +639,8 @@ h3 {
     }
 
     .fullpage>h2 {
-        font-size: 25px;
-        padding-bottom: 2em;
+        font-size: 20px;
+        padding-bottom: 1em;
     }
 
     .fullpage>h3 {
