@@ -619,9 +619,9 @@ li {
         display: inline;
     }
 
-        .webpage-images>img {
+    .webpage-images>img {
             display: inline-block;
-            width:100%;
+            max-width:100%;
         }
 
 
