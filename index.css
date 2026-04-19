@@ -495,10 +495,16 @@ h3 {
 
 
 
-    .intro>p ol {
+    .intro>p {
         margin: 0px;
         font-size: 1rem;
+        padding:0px;
     }
+
+        .intro>ol {
+            margin: 0px;
+            font-size: 1rem;
+        }
 
     .grid-item {
         margin: 13px 5px;
