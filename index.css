@@ -361,28 +361,7 @@ input {
 
 
 
-.fullpage {
-    max-width: 100%;
-    display: grid;
-}
 
-.fullpage>img {
-    width: 90%;
-    height: auto;
-    margin: auto;
-}
-
-.fullpage>h3 {
-    margin: auto;
-    max-width: 80%;
-    font-size: 30px;
-    animation: pulse 2s infinite;
-}
-
-.fullpage>h2 {
-    font-size: 25px;
-    padding-bottom: 1.5em;
-}
 
 @keyframes pulse {
     0% {
@@ -501,11 +480,7 @@ h3 {
         padding:8px;
     }
 
-        .intro>ol {
-            margin: 0px;
-            font-size: 1rem;
-        }
-
+     
     .grid-item {
         margin: 13px 5px;
     }
@@ -565,10 +540,7 @@ h3 {
     }
 
 
-    .webpage-images>img {
-        display: inline;
-        width: 100%;
-    }
+ 
 
     .dev-labels {
         display: flex;
@@ -613,48 +585,7 @@ h3 {
         vertical-align: middle;
     }
 
-    .webpage {
-        display: inline;
-    }
-
-    .webpage-images>img {
-        display: inline-block;
-        max-width: 100%;
-        width: 100%;
-    }
-
-
-    .webpage-images p {
-        display: grid;
-        max-width: 50%;
-    }
-
-    .webpage-images h3 {
-        font-size: 18px;
-    }
-
-    .fullpage {
-        max-width: 100%;
-        display: inline-block;
-    }
-
-    .fullpage>img {
-        max-width: 100%;
-        height: auto;
-        display: inline-block;
-    }
-
-    .fullpage>h2 {
-        font-size: 20px;
-        padding-bottom: 1em;
-    }
-
-    .fullpage>h3 {
-        max-width: 90%;
-        font-size: 18px;
-        padding: 10px 30px;
-    }
-
+   
     .grid-container {
         display: inline-flex;
         max-width: 100%;
