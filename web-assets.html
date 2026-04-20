@@ -34,17 +34,14 @@
 
         h2 {
             text-align: center;
-            font-size: 1.8rem;
+            font-size: 2rem;
             margin-top: 10px;
             color: white;
             opacity: 0;
             animation: slideInFromBottom 1s ease-out forwards;
         }
 
-        p {
-            text-align: center;
-            font-size: 22px;
-        }
+
 
         .intro>p {
             font-size: 1.2rem;
@@ -77,22 +74,24 @@
             padding-bottom: 1.5em;
         }
 
+
+
         .webpage {
-            display: inline;
+            display: flex;
+            max-width: 100%;
+            justify-content: center;
         }
 
         .webpage-images>img {
-            display: inline-block;
-            max-width: 100%;
-            width: 100%;
+            width: 50vw;
         }
 
 
         .webpage-images p {
+            padding-top: 2%;
             display: grid;
             max-width: 50%;
         }
-
 
         @media screen and (max-width: 768px) {
 
@@ -117,6 +116,23 @@
                 max-width: 90%;
                 font-size: 18px;
                 padding: 10px 30px;
+            }
+
+
+            .webpage {
+                display: inline;
+            }
+
+            .webpage-images>img {
+                display: inline-block;
+                max-width: 100%;
+                width: 100%;
+            }
+
+
+            .webpage-images p {
+                display: grid;
+                max-width: 50%;
             }
 
             h3 {
