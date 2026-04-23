@@ -310,9 +310,10 @@ video {
 .dev-images>img {
     padding: 2%;
     height:350px;
-    max-width: 100%;
-    align-content: center;
+    width: 100%;
     display: flex;
+    margin:0 auto;
+    align-items: center;
     flex-wrap: wrap;
 }
 
