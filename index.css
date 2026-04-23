@@ -186,8 +186,8 @@ ul {
 
 .gif-gallery>img {
     height: auto;
-    width:100%;
-    display:block;
+    width: 100%;
+    display: block;
 }
 
 img {
@@ -311,7 +311,7 @@ video {
     padding: 2%;
     width: 100%;
     display: flex;
-    margin:0 auto;
+    margin: 0 auto;
     align-items: center;
     flex-wrap: wrap;
 }
@@ -460,10 +460,15 @@ h3 {
     .intro>p {
         margin: 0px;
         font-size: 1rem;
-        padding:8px;
+        padding: 8px;
     }
 
-     
+    .intro>li {
+        margin: 0px;
+        font-size: 1rem;
+        padding: 8px;
+    }
+
     .grid-item {
         margin: 13px 5px;
     }
@@ -523,7 +528,7 @@ h3 {
     }
 
 
- 
+
 
     .dev-labels {
         display: flex;
@@ -568,7 +573,7 @@ h3 {
         vertical-align: middle;
     }
 
-   
+
     .grid-container {
         display: inline-flex;
         max-width: 100%;
