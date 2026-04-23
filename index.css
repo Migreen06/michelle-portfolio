@@ -309,7 +309,6 @@ video {
 
 .dev-images>img {
     padding: 2%;
-    height:350px;
     width: 100%;
     display: flex;
     margin:0 auto;
