@@ -471,6 +471,10 @@ h3 {
 
     .grid-item {
         margin: 13px 5px;
+        display:inline-flex;
+        flex-wrap:wrap;
+        justify-content:space-around;
+        font-size: 18px;
     }
 
 
