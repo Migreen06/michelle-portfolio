@@ -473,8 +473,9 @@ h3 {
         margin: 13px 5px;
         display:inline-flex;
         flex-wrap:wrap;
-        justify-content:space-around;
+        justify-content:center;
         font-size: 18px;
+        max-width:40%;
     }
 
 
