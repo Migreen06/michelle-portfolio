@@ -471,11 +471,11 @@ h3 {
 
     .grid-item {
         margin: 13px 5px;
-        display:inline-flex;
-        flex-wrap:wrap;
-        justify-content:center;
+        display: inline-flex;
+        flex-wrap: wrap;
+        justify-content: center;
         font-size: 18px;
-        max-width:40%;
+        max-width: 40%;
     }
 
 
@@ -508,8 +508,8 @@ h3 {
 
     .subcat {
         display: inline-flex;
-        max-width:100%;
-        margin:0px;
+        max-width: 100%;
+        margin: 0px;
         justify-content: center;
     }
 
@@ -541,13 +541,13 @@ h3 {
     .dev-labels {
         display: flex;
         flex-direction: column;
-        font-size:18px;
+        font-size: 18px;
     }
 
     .dev-images>img {
         height: auto;
         max-width: 100%;
-        margin:0;
+        margin: 0;
     }
 
 
@@ -561,12 +561,18 @@ h3 {
 
     .banner-box {
         display: block;
-        width:100%;
+        width: 100%;
+    }
+
+    .banners {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
     }
 
     .banners>img {
         max-width: 100%;
-        width:100%;
+        width: 100%;
         height: auto;
     }
 
