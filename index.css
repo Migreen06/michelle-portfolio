@@ -509,6 +509,8 @@ h3 {
     .subcat {
         display: inline-flex;
         max-width:100%;
+        margin:0px;
+        justify-content: center;
     }
 
     .category>h2 {
