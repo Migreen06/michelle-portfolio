@@ -417,7 +417,7 @@ h3 {
         display: grid;
         padding: 0px;
         justify-items: center;
-        width: 100%;
+        max-width: 100%;
     }
 
     .gif-gallery>img {
