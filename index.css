@@ -559,23 +559,7 @@ h3 {
         align-items: center;
     }
 
-    .banner-box {
-        display: flex;
-        flex-direction: column;
-        width: 100%;
-    }
-
-    .banners {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        width:100%;
-    }
-
-    .banners>img {
-        max-width: 100%;
-        width: 100%;
-    }
+    
 
     .vidbox {
         display: inline;
