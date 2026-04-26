@@ -560,15 +560,13 @@ h3 {
     }
 
     .banner-box {
-        display: inline;
-    }
-
-    .banners {
-        display: inline;
+        display: block;
+        width:100%;
     }
 
     .banners>img {
         width: 100%;
+        display:block;
     }
 
     .vidbox {
