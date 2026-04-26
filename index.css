@@ -547,6 +547,7 @@ h3 {
     .dev-images>img {
         height: auto;
         max-width: 100%;
+        margin:0;
     }
 
 
