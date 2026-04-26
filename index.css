@@ -422,7 +422,7 @@ h3 {
 
     .gif-gallery>img {
         max-width: 100%;
-        height: 300px;
+        height: auto;
     }
 
 
