@@ -568,7 +568,7 @@ h3 {
     }
 
     .banners>img {
-        max-width: 100%;
+        width: 100%;
     }
 
     .vidbox {
