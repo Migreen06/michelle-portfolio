@@ -438,7 +438,7 @@ h3 {
     }
 
     nav {
-        background-color: rgb(1, 43, 1);
+        background-color: rgba(1, 43, 1, 0.6);
         display: none;
         color: white;
         width: 60%;
