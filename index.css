@@ -283,8 +283,11 @@ video {
 .design-list {
     display: flex;
     justify-content: space-around;
-    font-size:18px;
     margin: auto;
+}
+
+.design-list>li {
+    font-size: 18px;
 }
 
 .web-dev {
