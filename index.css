@@ -285,7 +285,7 @@ video {
     justify-content: space-around;
 }
 
-.design-list>li {
+.design-list>ul {
     font-size: 18px;
 }
 
