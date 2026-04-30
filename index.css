@@ -283,7 +283,6 @@ video {
 .design-list {
     display: flex;
     justify-content: space-around;
-    margin: auto;
 }
 
 .design-list>li {
