@@ -27,6 +27,3 @@ dist-ssr
 node_modules/
 .cache/
 .wrangler/
-.git/
-node_modules/
-wrangler.jsonc
