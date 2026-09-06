@@ -24,3 +24,9 @@ dist-ssr
 *.sw?
 *.pack
 /pack
+node_modules/
+.cache/
+.wrangler/
+.git/
+node_modules/
+wrangler.jsonc
